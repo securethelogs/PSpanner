@@ -12,10 +12,10 @@ Network scans are often used for good and can help the blue team identify gaps a
 If you wish to do a single scan, enter the URL or IP. At this moment of time, it doesn’t support IP ranges. If you wish to scan multiple, enter all destination into a txt file.
 
 <b>Single Destination Scan </b>
-![singlescan](https://ctrla1tdel.files.wordpress.com/2020/01/singlescan.gif?w=454&zoom=2)
+![singlescan](https://ctrla1tdel.files.wordpress.com/2020/01/singlescan.gif)
 
 <b>Multiple Destination Scan </b>
-![singlescan](https://ctrla1tdel.files.wordpress.com/2020/01/txtscan.gif?w=567&zoom=2)
+![singlescan](https://ctrla1tdel.files.wordpress.com/2020/01/txtscan.gif)
 
 *The IPs I took from Shodan. I don’t own or advise scanning them.
 They were the first ones on the site and are used as an example.
