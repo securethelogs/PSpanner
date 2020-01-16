@@ -20,4 +20,9 @@ If you wish to do a single scan, enter the URL or IP. At this moment of time, it
 *The IPs I took from Shodan. I don’t own or advise scanning them.
 They were the first ones on the site and are used as an example.
 
+<b><Running Live....(Internet Connection Needed)/b>
+ Run the following within Powershell:
+
+powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/PSpanner/master/PSpanner.ps1’)”
+
 For More Information: https://securethelogs.com/pspanner-network-scanner/
